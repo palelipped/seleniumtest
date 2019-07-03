@@ -1,5 +1,6 @@
 # seleniumtest
 ## test task for hotger
+You need to open this in IntelliJ IDEA 
 
 you need to inicialize JAVA_HOME and MAVEN_HOME path variables!
 
